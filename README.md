@@ -42,15 +42,15 @@ In windows 7 give the command arp -a
 
 <img width="815" height="491" alt="Screenshot 2025-09-19 180524" src="https://github.com/user-attachments/assets/eb6908b6-d9c5-447b-9cff-8972f2cf8669" />
 
+<img width="828" height="523" alt="Screenshot 2025-09-19 180100" src="https://github.com/user-attachments/assets/727d025b-d141-40f9-aaa6-f1cc84c97ef0" />
+
+
 ## capturing duplicate ip address using wireshark:
 <img width="1918" height="983" alt="Screenshot 2025-09-19 180603" src="https://github.com/user-attachments/assets/6f29fb7c-5a5f-4892-a1b8-7802036c1c91" />
 
 ## after sniffing the physical address of the windows machine
 <img width="1457" height="753" alt="Screenshot 2025-09-19 180006" src="https://github.com/user-attachments/assets/5ee20a91-fd45-4aaa-9f80-f8b1b764a27e" />
 
-
-
-Invoke the wireshark and examine the various menus  and controls of the tool:
 
 
 ## RESULT:
